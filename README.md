@@ -65,6 +65,10 @@ This repository contains a collection of Applied Machine Learning (AML) experime
 * Predicts whether a customer will leave the service
 * Business-oriented classification problem
 
+### 🔹Unsupervised Pattern Recognition and Cluster Analysis in 2D Data Using K-Means Clustering
+* K-Means Clustering groups 2D data points automatically without labels.
+* It repeats assigning points to nearest cluster and updating centroids until stable.
+
 ---
 
 ## ⚙️ Technologies Used
